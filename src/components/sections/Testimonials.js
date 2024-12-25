@@ -8,7 +8,7 @@ const Testimonials = () => {
             <p>
               <span className="quote">
                 " I worked with Aashik, he was very helpful and fast to respond
-                to my inquiry to help with Wordpress website issues and all
+                to my inquiry to help with NextJS website app issues and all
                 technical problems. "
               </span>
               <span className="person">Shanuka Thushara</span>
@@ -23,9 +23,7 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " Aashik is a great help managing a very out of date website.
-                Everything we ask him to do is done quickly and efficiently, we
-                would be lost without him. "
+                "Aashik has been an incredible asset in managing our outdated website. Every task we entrust to him is completed with remarkable speed and efficiency. "
               </span>
               <span className="person">Rangana Upul</span>
               <span className="job">CEO and Founder - Ranga Technologies</span>
